@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+.red {
+    color:red;
+}
+.blue {
+    color:blue;
+}
+.green {
+    color:green;
+}
+.big {
+    font-size: x-large;
+}
+.tiny {
+    font-size: x-small;
+}
+.centered {
+    text-align: center;
+}
+.bold {
+    font-weight: bold;
+}
+.different {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.combinedrules {
+    font-weight:bold;
+    color:orange;
+    font-size:x-large;
+}
+.styledFont {
+    color:green;
+}
+#styledImage {
+    border: orange 10px solid;
+}
